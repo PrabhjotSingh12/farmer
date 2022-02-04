@@ -1,0 +1,12 @@
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.8;
+}
+.img
+{
+    position: fixed;
+    height: auto;
+    border-radius: 8px;
+}
